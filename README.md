@@ -1,7 +1,12 @@
-# C language
+# Git and GitHub
 
-Some basic concepts of c lan like loop,escape sequence,control statement.
+It's a version control system.
 
-## Introductin to c lan
+## Git  
 
-c is a middle level programming lan
+It's a tool.
+
+
+## GitHub
+
+It's a website
