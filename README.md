@@ -15,3 +15,8 @@ It's a website
 
 git checkout -b branchname for making new branch 
 git intro is on git hub where c intro is on local machine
+
+
+## Introductin to fork
+
+It is used to copy repository
